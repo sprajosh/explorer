@@ -27,7 +27,7 @@ Sample [`questions.json`](./sample/questions.json)
 ]
 ```
 
-Sample [context can be seen here](./sample/zaina.json)
+Sample [context can be seen here](./sample/zania.json)
 
 Sample Postman request for reference
 
